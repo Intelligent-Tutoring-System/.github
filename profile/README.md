@@ -6,12 +6,6 @@ The ITS is an auto-grading system aimed at students and lecturers by providing a
 
 Here we only demonstrate how the complete system works at a high level, due to inherent differences in the subsystems, subdocuments were produced to explain them more cleanly and concisely.
 
-[Frontend README.md](https://github.com/Intelligent-Tutoring-System/ITS-front#readme)
-
-[Backend README.md](https://github.com/Intelligent-Tutoring-System/ITS-services#readme)
-
-[Database README.md](https://github.com/Intelligent-Tutoring-System/ITS-database#readme)
-
 <h2>2.1 - System Architecture</h2>
 A high-level architectural diagram of the system is shown below. Sections 2.2, 2.3, and 2.4 will go more in depth about their individual structure and implementation.
 
