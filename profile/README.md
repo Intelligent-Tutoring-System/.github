@@ -4,7 +4,7 @@ The ITS is an auto-grading system aimed at students and lecturers by providing a
 
 <h1>2 - Project Structure</h1>
 
-Here we only demonstrate how the complete system works at a high level, due to inherent differences in the subsystems, subdocuments were produced to explain them more cleanly and concisely.
+Here we only demonstrate how the complete system works at a high level, due to inherent differences in the subsystems, repo-specific READMEs were created in each repository to explain the details more cleanly and concisely. Link of each repository can be found below.
 
 <h2>2.1 - System Architecture</h2>
 A high-level architectural diagram of the system is shown below. Sections 2.2, 2.3, and 2.4 will go more in depth about their individual structure and implementation.
