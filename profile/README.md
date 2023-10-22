@@ -52,7 +52,7 @@ The current ITS platform only allows the students and lecturers to upload files 
 
 |Release No|Timeline|Main Goals to Achieve|
 |--|--|--|
-|1|March 2024 - November 2024|Fix the issues written in maintenance plan|
+|1|March 2024 - November 2024|Fix the issues written in [maintenance plan](https://docs.google.com/document/d/1sl58L5uH8HLCzwA1oZSKS9p8U4VGFyBG8irsbybg4Cg/edit?usp=sharing)|
 |2|March 2024 - May 2024|Implement feature 5.1.1 and feature 5.1.2|
 |3|July 2024 - November 2024|Implement feature 5.1.3 and feature 5.1.2|
 
